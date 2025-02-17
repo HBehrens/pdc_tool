@@ -2,6 +2,8 @@
 
 Command-line interface to work with Pebble Draw Command (PDC) files. With `pdc_tool` you can convert SVGs to PDCs, render PDCs as PNGs or rendering SVGs directly while producting pixel-perfectly the same output the original Pebble (1bit b&w) or Pebble Time (64 colors) with or without anti-aliasing would.
 
+![Screenshot pdc_tool in the terminal](screenshot.png)
+
 > [!NOTE]
 > This is an early version with known limitations. While this tool should not cause any harm, it may fail in (un-)expected ways.
 
