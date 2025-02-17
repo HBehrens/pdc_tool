@@ -18,7 +18,7 @@ Download the platform-specific binary from [pdc_tool/releases](https://github.co
 
 ## 🔮 Future Plans
 * [ ] Introduce command `pdc` to actually save a PDC.
-* [ ] Provide examples (SVGs and commands to run)
+* [ ] Provide examples (SVGs and commands to run).
 * [ ] Emit diagnostics during conversion.
 * [ ] Command `svg` to produce annotated output (embedded diagnostics).
 * [ ] Support Bézier curves.
