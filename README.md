@@ -17,9 +17,9 @@ producing **pixel-perfect** output identical to how the original Pebble (1-bit B
 Download the platform-specific binary from [pdc_tool/releases](https://github.com/HBehrens/pdc_tool/releases).
 
 ## 🔮 Future Plans
-* [ ] Introduce command `pdc` to actually save a PDC.
+* [x] Introduce command `pdc` to actually save a PDC.
+* [x] Emit diagnostics during conversion.
 * [ ] Provide examples (SVGs and commands to run).
-* [ ] Emit diagnostics during conversion.
 * [ ] Command `svg` to produce annotated output (embedded diagnostics).
 * [ ] Support Bézier curves.
 * [ ] Open-Source (Rust) `svg_tool` and its `pdc` command (excluding `png`, as it depends on Gossan).
