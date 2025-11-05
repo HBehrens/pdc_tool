@@ -21,7 +21,7 @@ Download the platform-specific binary from [pdc_tool/releases](https://github.co
 * [x] Emit diagnostics during conversion.
 * [ ] Provide examples (SVGs and commands to run).
 * [ ] Command `svg` to produce annotated output (embedded diagnostics).
-* [ ] Support Bézier curves.
+* [x] Support Bézier curves and `<circle>` elements.
 * [ ] Open-Source (Rust) `svg_tool` and its `pdc` command (excluding `png`, as it depends on Gossan).
 
 ## 🛑 Running on macOS
